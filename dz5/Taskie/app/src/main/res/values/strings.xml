@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Taskie</string>
+    <string name="newTaskHeadingText">New task:</string>
+    <string name="newTaskTitleInputHint">Enter title</string>
+    <string name="newTaskDescriptionInputHint">Enter description</string>
+    <string name="low_priority">Low</string>
+    <string name="medium_priority">Medium</string>
+    <string name="high_priority">High</string>
+    <string name="saveTaskActionText">Save</string>
+    <string name="emptyFields">Check your inputs</string>
+    <string name="noTaskFound">No task found</string>
+    <string name="no_data">No Tasks!</string>
+    <string name="tasks">Tasks</string>
+    <string name="About">About</string>
+    <string name="about_app_text">This is some text that I put so that it doesnt look silly.</string>
+    <string name="about_author_text">Made by Željko Sabo</string>
+    <string name="text_sort_by_priority">Sort by Priority</string>
+    <string name="text_delete_all_tasks">Delete all Tasks</string>
+    <string name="text_edit_task">Edit Task:</string>
+    <string name="hint_edit_task_title">Edit task title</string>
+    <string name="hint_edit_task_description">Edit task description</string>
+    <string name="picture_description">picture</string>
+    <string name="btn_text_save_changes">Save Changes</string>
+</resources>
